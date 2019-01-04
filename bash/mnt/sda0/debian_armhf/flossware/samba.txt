@@ -1,0 +1,3 @@
+chmod -R 0700 /var/lib/samba/
+chmod -R 0700 /var/log/samba
+chmod -R 0700 /var/run/samba
